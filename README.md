@@ -1,3 +1,21 @@
+# BIOMD0000000341: Topp2000_BetaCellMass_Diabetes
+
+## Installation
+
+Download this repository, and install with distutils
+
+`python setup.py install`
+
+Or, install using pip
+
+`pip install git+https://github.com/biomodels/BIOMD0000000341.git`
+
+To install a specific version (in this example, from the 2014-09-16 BioModels release)
+
+`pip install git+https://github.com/biomodels/BIOMD0000000341.git@20140916`
+
+
+# Model Notes
 
 
 This model is from the article:  
@@ -24,4 +42,5 @@ saddle points can be eliminated (bifurcation), and (3) progressive defects in
 glucose and/or insulin dynamics can drive glucose levels up at a rate faster
 than the adaptation of the beta -cell mass which can drive glucose levels down
 (dynamical hyperglycemia).
+
 
